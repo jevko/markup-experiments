@@ -1,4 +1,4 @@
-# Markup Experiments
+# Jevko markup experiments
 
 A collection of experiments with [Jevko](https://jevko.org) and text markup. Translating Jevko to HTML/XML.
 
