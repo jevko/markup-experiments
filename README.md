@@ -18,7 +18,7 @@ Char = Escape / %x0-5a / %x5c / %x5e-5f / %x61-10ffff
 Escape = "`" ("`" / "[" / "]")
 ```
 
-which is equivalent to thw [Jevko](https://jevko.org) grammar.
+which is equivalent to the [Jevko](https://jevko.org) grammar.
 
 The shape of the trees returned by `parse` fairly closely matches the grammar, e.g.:
 
